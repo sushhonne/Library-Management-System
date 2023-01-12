@@ -1,0 +1,24 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.image img{
+    width: 90%;
+    height: 300px;
+}
+.info{
+    background:linear-gradient(to bottom, rgba(64, 206, 192, 0.697),white);
+    width: 65%;
+    margin: auto;
+    position: relative;
+    bottom: 100px;
+    padding: 20px 20px;
+}
+.info h1{
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: white;
+    text-decoration-thickness: 5px;
+
+}

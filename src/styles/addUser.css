@@ -1,0 +1,14 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.form{
+    width: 50%;
+    margin: auto;
+    background:linear-gradient(to bottom, rgba(64, 206, 192, 0.697),white);
+    padding: 20px 0px;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-top: 50px;
+}

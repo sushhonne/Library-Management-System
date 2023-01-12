@@ -1,0 +1,58 @@
+.body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.userLogin{
+    /* background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNdOA-nXNXrHOfrVslCWaSXi3bL8fIxE2sCg&usqp=CAU"); */
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    background:linear-gradient(to top, rgba(64, 206, 192, 0.697),white,rgba(64, 206, 192, 0.697));
+}
+.form-container-card{
+    box-sizing: border-box;
+    width: 40%;
+    margin: auto;
+    position: relative;
+    top:150px;
+    background:linear-gradient(to bottom, rgba(64, 206, 192, 0.697),white);
+    /* background-color: rgba(255, 255, 255, 0.59); */
+    padding: 60px 0px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.form-container-card h1{
+    position: relative;
+    bottom:20px;
+    border-bottom: 0.9px solid black;
+    padding-bottom: 20px;
+    margin: 20px;
+}
+.form-input input{
+    width: 80%;
+    padding: 10px;
+    border:0px;
+    border-radius: 5px;
+    outline: none;
+    margin: 10px 0px;
+}
+.form-input label{
+   font-weight: 100px;
+}
+.login-btn {
+    font-size: 17px;
+    padding: 5px 20px;
+    margin-top: 14px;
+    margin-bottom: 0px;
+    border-radius: 15px;
+    background-color:rgba(43, 164, 164, 0.136);
+    font-family: 'Courier New', Courier, monospace;
+    cursor: pointer;
+    border: 0.5px solid black;
+    transition: .5s;
+}
+.login-btn:hover{
+    background-color:rgba(43, 164, 164, 0.76);
+    padding: 5px 25px;
+}

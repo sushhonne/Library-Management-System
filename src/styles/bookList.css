@@ -1,0 +1,119 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.book-list{   
+    display: flex;
+    width: 80%;
+    margin: 20px 100px ;
+    padding: 10px 20px;
+    background-color: rgba(85, 184, 187, 0.415);
+    border: 2px solid black;
+    border-radius: 10px;
+    
+}
+.image{
+    padding: 20px 50px;
+}
+.book-list img{
+    height: 200px;
+    width: 200px;
+}
+.info{
+    text-align: start;
+}
+.book-list:hover{
+    box-shadow: 5px 5px 3px rgb(122, 199, 195);
+}
+.info button{
+cursor: pointer;
+padding: 5px 10px;
+border-radius: 5px;
+font-size: 13px;
+border: 1px solid black;
+background-color: rgb(227, 14, 14);
+margin: 0px 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .bookList{
+   display: inline-block;
+   background-position: center;
+   height: 100vh;
+}
+.book-list{
+    display: inline-block;
+    border: 2px solid black;
+    margin: 20px 20px;
+    width: 300px;
+    height: auto;
+    padding: 10px;
+}
+.book-list h1{
+    font-size: 20px;
+    height: 50px;
+}
+.book-list h3{
+    font-size: 15px;
+    height: 50px;
+}
+.book-list button{
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 10px;
+} */
+

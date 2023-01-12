@@ -1,0 +1,138 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Courier New', Courier, monospace;
+}
+.landingPage{
+   /* background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNdOA-nXNXrHOfrVslCWaSXi3bL8fIxE2sCg&usqp=CAU"); */
+   background:linear-gradient(to top, rgba(64, 206, 192, 0.697),white,rgba(64, 206, 192, 0.697));
+   background-position: center;
+   background-size: cover;
+   height: 100vh;
+   /* background-color: rgba(0, 0, 0, 0.4); */
+}
+.input {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 40px 0px;
+    position: relative;
+    left: 65px;
+}
+.homePage{
+    position: relative;
+    top:150px;
+    margin: auto;
+    background:linear-gradient(to bottom, rgba(64, 206, 192, 0.697),white);
+    width: 50%;
+    padding: 50px 0px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+.homePage h1{
+    margin: 0px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid black;
+    margin: 0px 30px;
+}
+.homePage img{
+    height: 120px;
+    width: 120px;
+    border-radius: 60px;
+}
+.homePage a{
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    border-radius:20px;
+    padding: 5px 20px;
+    
+}
+.homePage a:hover{
+    background-color:rgba(43, 164, 164, 0.76);
+    
+}
+.admin a{
+    position: relative;
+    top:50px ;
+    right: 130px;
+}
+.login a{
+    position: relative;
+    top:50px ;
+    right: 130px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .selectLoginType{
+    background:linear-gradient(to bottom, rgba(64, 206, 192, 0.697),white);
+    padding: 40px 0px;
+    width: 60%;
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 10px;
+    align-items: center;
+    position: relative;
+    top:200px;
+    
+}
+.selectLoginType a{
+    text-decoration: none;
+    border: 2px solid black;
+    padding: 10px 25px;
+    margin: 0px 150px;
+    color: black;
+    background-color:rgba(43, 164, 164, 0.136);
+    font-size: 15px;
+    margin-top: 14px;
+    margin-bottom: 0;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: .5s;
+}
+ .h1{
+    position: relative;
+    bottom:20px;
+    border-bottom: 0.9px solid black;
+    padding-bottom: 0px;
+    margin: 20px;
+}
+.selectLoginType a:hover{
+    background-color:rgba(43, 164, 164, 0.76);
+}
+
+.au-login img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    display: flex;
+} */
