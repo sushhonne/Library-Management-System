@@ -10,7 +10,7 @@ const UserLogin = () => {
     return ( 
         <div className="userLogin">
             <div className="form-container-card">
-                <h1>User Login !</h1>
+                <h1>User Login!</h1>
                 <div className="form-input">
                     <form action="" onSubmit={handleLogin}>
                         <div className="email-input">
